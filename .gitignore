@@ -1,7 +1,7 @@
 # Where my bundles are built - OP
+/[Oo]P AssetBundles/iOS
+/[Oo]P AssetBundles/Android
 /[Oo]P Filtered Bundles (iOS)
-/[Oo]P AssetBundles (iOS)
 /[Oo]P Filtered Bundles (Android)
-/[Oo]P AssetBundles (Android)
 Filter.py
 Filter Run funni.bat
