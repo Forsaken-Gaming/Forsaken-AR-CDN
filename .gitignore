@@ -1,3 +1,5 @@
 # Where my bundles are built - OP
-/[Oo]P Filtered Bundles
-/[Oo]P AssetBundles
+/[Oo]P Filtered Bundles (iOS)
+/[Oo]P AssetBundles (iOS)
+/[Oo]P Filtered Bundles (Android)
+/[Oo]P AssetBundles (Android)
