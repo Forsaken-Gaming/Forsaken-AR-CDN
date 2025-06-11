@@ -1,1 +1,0 @@
-{"Entries":[{"ErrorReturned":"MissingCurrentSessionToken","BlockAllow":"BLOCK"},{"ErrorReturned":"MismatchedSessionTokens","BlockAllow":"BLOCK"},{"ErrorReturned":"ForceMinimumDataVersion","BlockAllow":"BLOCK"}]}
